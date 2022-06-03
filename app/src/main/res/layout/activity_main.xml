@@ -52,7 +52,7 @@
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Bars & Hotels"
+                    android:text="Bars Hotels"
                     android:textSize="25dp"
                     android:paddingLeft="20dp"
 
@@ -61,7 +61,7 @@
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="42 Place"
+                    android:text="40 Place"
                     android:textSize="20dp"
                     android:paddingLeft="40dp"
                     android:layout_marginTop="4dp"
